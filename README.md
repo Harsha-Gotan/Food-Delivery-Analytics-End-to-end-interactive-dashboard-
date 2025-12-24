@@ -43,5 +43,6 @@ Create an interactive analytics solution that:
 - **Payment optimization**: Encourage UPI usage (highest transactions) for faster settlements.
 - **Seasonal trends**: Sales dip in April – plan marketing campaigns or discounts to boost April orders.
 
-- https://github.com/Harsha-Gotan/Food-Delivery-Analytics-End-to-end-interactive-dashboard-/blob/main/Screenshot%20of%20Dashboard.png
+<img width="1254" height="708" alt="Screenshot of Dashboard" src="https://github.com/user-attachments/assets/41804125-e021-4ca0-b60f-df0d0d6f3756" />
+
 
